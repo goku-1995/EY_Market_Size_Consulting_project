@@ -1,6 +1,6 @@
 # EY_Market_Size_Consulting_project
 
-#The Client
+**The Client**
 Your Client is the Asia-Pacific office of ABC Women Foundation. ABC Women Foundation is an entity dedicated to gender equality and the empowerment of women. A global champion for women and girls, ABC Women Foundation was established to accelerate progress on meeting their needs worldwide. ABC Women Foundation supports various countries as they set global standards for achieving gender equality and works with governments and civil society to design laws, policies, programmes and services needed to ensure that the standards are effectively implemented and truly benefit women and girls worldwide. 
 
 Home to approximately 60 percent of the world’s population, the Asia-Pacific region is culturally, politically and economically diverse, with little sense of shared regional heritage beyond the respective sub-regions of South Asia, East/Southeast Asia and the Pacific. Despite this diversity, the region shares common challenges of migration, increasing socio-economic disparities, a rise in catastrophic natural disasters, and diverse cultures with entrenched cultural norms which perpetuate gender-based discrimination and makes combating violence against women a continued challenge. Internal and cross-border conflicts and limited rule of law in more fragile states impact livelihoods in several countries across the region; while the risks of climate change threaten island states and coastal areas. 
@@ -15,7 +15,7 @@ It is estimated that there are more than 55 million widows in India. Studies ind
 Following this, the project will work with widows’ coalitions, so they can speak up and access public services, and finally by guaranteeing that discriminatory social practices against widows are reviewed and repealed. Plans are also afoot to work with local community leaders, so they can help to champion the cause of widows. This component is scheduled to have various sub-components each of which will pertain to various thematic areas such as public policy, law and regulations among others. This is done with the aim of having a transformative impact on the overall living standards of widows. 
 Since this is a long-term transformational project, ABC Women Foundation will launch several small projects that will serve to further the progress of a component or sub-component. 
 
-**Your Role **
+**Your Role**
 You represent a company that has been hired as a lead consultant on a specific short-term project that is part of this transformational long-term project. Your task is to form a women’s Self-Help Group in Manipur, comprising of widows who have been left without financial stability owing to the death of their husbands (or primary breadwinners) in the gun violence of the state. It will be your task to form and convert this SHG into a self-sustained business unit that provides a steady income to those women who are part of it. Your project is being considered as a pilot, whose model, if successful, will be replicated in other areas of conflict in India and its neighbouring countries. 
 
 An important factor to keep in mind is that while the case solution must be specific to Manipur, you should try to make space for its replicability.
@@ -53,7 +53,7 @@ Note: To make your analysis more robust, you may assume reasonable facts and fig
    
 Note: There is no right or wrong answer, although these questions are objective. You must make assumptions pertaining to numbers you have presumably decided upon in the first task. The only information given to you is that the number of widows in Manipur who live in poverty are 20,000. Please note that the most important thing for this task is that you clearly state the assumptions on the basis of which the calculations are being done. For instance, of the 20,000 widows, only a select number will be part of your SHG. How you arrive at that number is an assumption you make. 
 
-**All calculations must be done on excel and clearly explained. **
+**All calculations must be done on excel and clearly explained.**
 Instructions 
 1. You will be provided 8 hours to solve this case 
 2. Be as creative as possible. The questions are only guidelines to help you start thinking. You do NOT need to adhere to them strictly. 
