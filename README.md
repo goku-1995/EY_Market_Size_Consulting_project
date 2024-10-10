@@ -1,6 +1,6 @@
 # EY_Market_Size_Consulting_project
 
-**The Client **
+#The Client
 Your Client is the Asia-Pacific office of ABC Women Foundation. ABC Women Foundation is an entity dedicated to gender equality and the empowerment of women. A global champion for women and girls, ABC Women Foundation was established to accelerate progress on meeting their needs worldwide. ABC Women Foundation supports various countries as they set global standards for achieving gender equality and works with governments and civil society to design laws, policies, programmes and services needed to ensure that the standards are effectively implemented and truly benefit women and girls worldwide. 
 
 Home to approximately 60 percent of the world’s population, the Asia-Pacific region is culturally, politically and economically diverse, with little sense of shared regional heritage beyond the respective sub-regions of South Asia, East/Southeast Asia and the Pacific. Despite this diversity, the region shares common challenges of migration, increasing socio-economic disparities, a rise in catastrophic natural disasters, and diverse cultures with entrenched cultural norms which perpetuate gender-based discrimination and makes combating violence against women a continued challenge. Internal and cross-border conflicts and limited rule of law in more fragile states impact livelihoods in several countries across the region; while the risks of climate change threaten island states and coastal areas. 
